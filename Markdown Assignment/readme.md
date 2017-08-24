@@ -32,5 +32,5 @@ git push
 ```
 # Importance of Good documentation
 
-Good documentation is one of primery part of each scientific field. Structural document like markdown file help to have a consistant structure. 
+Documentation is a set of document [in any type] that used for decribing and explaning procedures and techniques. Good documentation is one of primery part of each scientific field. Structural document like markdown file help to have a consistant structure for scientific procedure and technique. 
 
